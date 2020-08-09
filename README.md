@@ -3,6 +3,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**NOTE:** In order to gain access to the dashboard, set `localStorage.jwt`'s value in your browser's console to a non-empty string.
+
 ## Available Scripts
 
 In the project directory, you can run:
